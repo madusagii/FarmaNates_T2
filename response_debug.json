@@ -1,0 +1,30 @@
+{
+    "errors": [
+        {
+            "message": "Request failed with status code 400",
+            "path": [
+                "productSearch"
+            ],
+            "extensions": {
+                "code": "INTERNAL_SERVER_ERROR",
+                "exception": {
+                    "message": "Request failed with status code 400",
+                    "name": "Error",
+                    "response": "***",
+                    "isAxiosError": true,
+                    "code": "E_HTTP_400"
+                }
+            },
+            "name": "GraphQLError",
+            "forwardedHost": "www.drogariasminasmais.com.br",
+            "forwardedProto": "http",
+            "operationId": "a5213576-5e53-42c2-b3b6-3ab071659c32",
+            "query": "***",
+            "requestId": "0741486c21574d31888877da0c977651",
+            "pathName": "productSearch"
+        }
+    ],
+    "data": {
+        "productSearch": null
+    }
+}
