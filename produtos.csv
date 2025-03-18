@@ -1159,8 +1159,8 @@ GLOBO GENERICO,Aripiprazol 10mg com 30 Comprimidos - Globo Genérico,78996209163
 APSEN,Atentah 25mg com 30 Cápsulas - Apsen,7896637033961,70.82,80.48,9.66
 APSEN,Atentah 40mg com 30 Cápsulas - Apsen,7896637033978,113.33,128.78,15.45
 APSEN,Atentah 18mg com 30 Cápsulas - Apsen,7896637033954,51.0,57.96,6.96
-APSEN,Atentah 80mg com 30 Cápsulas - Apsen,7896637033992,226.68,257.59,30.91
 APSEN,Atentah 60mg com 30 Cápsulas - Apsen,7896637033985,170.02,193.2,23.18
+APSEN,Atentah 80mg com 30 Cápsulas - Apsen,7896637033992,226.68,257.59,30.91
 APSEN,Atentah 10mg com 30 Cápsulas - Apsen,7896637033947,28.34,32.2,3.86
 HEALTH LABS,Hidra Health Uva com 4 Sachês - Health Labs,7908733200014,19.49,19.49,0.0
 LIBBS,"Glink Met 2,5+850mg com 60 Comprimidos - Libbs",7896094210752,138.12,166.38,28.26
@@ -1784,6 +1784,7 @@ ZODIAC ADIUM,Symdulor SL 10mg - 10 Comprimidos Sublinguais,7892953208618,31.26,3
 ZODIAC ADIUM,Symdulor SL 10mg - 20 Comprimidos Sublinguais,7892953208625,59.39,69.06,9.67
 BIOLAB AVERT OTC,Provagin Gel Hidratante Intravaginal 30g - Com 10 Aplicadores,7896112402275,95.49,95.49,0.0
 EMS GENERICO,Cloridrato de Donepezila+Cloridrato de Memantina 10 + 20mg 30 Comprimidos - EMS Genérico,7896004781310,144.33,144.33,0.0
+EMS GENERICO,Cloridrato de Donepezila+Cloridrato de Memantina 10 + 20mg 30 Comprimidos - EMS Genérico,7896004781310,144.33,144.33,0.0
 CIMED,Lavitan A-Z Mulher com 30 Comprimidos - Cimed,7897947601703,19.99,23.9,3.91
 EUROFARMA RX,Dixil 50mg/ml Spray 50ml - Eurofarma,7891317025205,62.47,69.41,6.94
 MOMENTA,Zap 10mg com 30 Comprimidos - Momenta,7891317016142,0,0,0
@@ -1868,7 +1869,6 @@ EMS,Epocler Todo Dia - 60 Comprimido,7896094927544,22.36,30.99,8.63
 EMS,Buscopan Composto 10mg + 250mg com 4 Comprimidos - Hypera,7896094922242,5.5,6.4,0.9
 EMS,Buscofem Hot com 2 Adesivos - Hypera,7896094927032,21.76,24.18,2.42
 CIFARMA SIMILAR,Dextamine Xarope Cereja com 120ml - Cifarma,7908020507024,20.9,32.0,11.1
-EMS,Ondif 8mg com 10 Strips - Hypera,7896006214687,75.33,87.59,12.26
 EMS,Colflex Curcuma - 30 Comprimidos,7896094927223,287.9,287.9,0.0
 EUROFARMA GENERICO,Montelucaste de Sódio 4mg com 60 Comprimidos Mastigáveis - Eurofarma Genérico,7891317016371,64.1,134.75,70.65
 EMS,Curc 400mg - 60 Comprimidos,7896094927261,225.21,309.9,84.69
@@ -1954,6 +1954,7 @@ PHARLAB,Ciproflonax 500mg com 14 Comprimidos - Pharlab,7898216360932,21.88,27.35
 SUPERA,Tam 750mg com 30 Comprimidos - Supera,7899420507885,127.89,152.95,25.06
 FARMOQUIMICA,Maresis Jato Forte Spray - 150ml,7898040325381,64.86,75.49,10.63
 LIBBS,"Libiam 1,25mg com 84 Comprimidos - Libbs",7896094211407,125.88,167.69,41.81
+LIBBS,"Libiam 1,25mg com 84 Comprimidos - Libbs",7896094211407,125.88,167.69,41.81
 GERMED GENERICO,Risedronato Sódico 150mg com 1 Comprimido - Germed Genérico,7896004752808,39.75,130.34,90.59
 ZYDUS GENERICO,Cloridrato de Trazodona 100mg com 30 Comprimidos - Zydus Genérico,7898927564155,34.92,63.23,28.31
 GERMED GENERICO,Dipirona Monoidratada 1g 10 Comprimidos - Germed Genérico,7896004783857,9.3,20.06,10.76
@@ -2038,7 +2039,6 @@ NIKKHO - ZYDUS,Reforgan 500mg com 30 Comprimidos - Zydus,7897460401651,73.67,91.
 EUROFARMA RX,Naire 20mg com 15 Comprimidos - Eurofarma,7891317011390,59.65,66.28,6.63
 SIGMA PHARMA RX,Vynaxa 10mg com 30 Comprimidos - Sigmas Pharma,7894916515764,41.98,50.82,8.84
 MYRALIS,Dprev Todo Dia Gotas 600ui com 5ml - Myralis,7898430194320,39.83,55.9,16.07
-MARJAN,Caldê Mdk 1.000Ui com 30 Comprimidos - Marjan,7896226109541,71.48,93.99,22.51
 EUROFARMA RX,Musculare 10mg com 15 Comprimidos - Eurofarma,7891317432362,20.56,22.84,2.28
 MYRALIS,Suplemento Alimentar Promind - 60 Comprimidos,7898430194269,80.3,99.9,19.6
 MYRALIS,Dprev 5.000ui/ml Gotas 4ml - Myralis,7898430193439,139.09,161.73,22.64
@@ -2294,6 +2294,7 @@ HEALTH LABS,Melatonina com 120 Cápsulas - Health Labs,7898655579865,26.99,26.99
 LIBBS,Ebatz 4mg com 30 Comprimidos - Libbs,7896094209206,129.85,159.56,29.71
 APSEN,Insit 100mg com 30 Comprimidos - Apsen,7896637032032,133.75,155.52,21.77
 MYRALIS,Pealiv 600mg - 30 Comprimidos,7898430194108,190.95,221.49,30.54
+MYRALIS,Pealiv 600mg - 30 Comprimidos,7898430194108,190.95,221.49,30.54
 MERCK RX,Concor Anlo 5mg + 5mg com 30 Comprimidos - Merck,7891721029974,84.81,98.21,13.4
 MYRALIS,Pealiv 300mg - 30 Comprimidos,7898430194009,116.79,132.9,16.11
 APSEN,Flancox 300mg com 30 Comprimidos - Apsen,7896637023139,60.02,66.69,6.67
@@ -2463,7 +2464,6 @@ MEDLEY GENERICOS,Dipirona Monoidratada 50mg 100ml - Medley Genérico,78964225062
 EUROFARMA RX,Iban 150mg com 1 Comprimido - Eurofarma,7891317007614,46.77,56.86,10.09
 CIMED,Lavitan Vitamina - D 30ml - Cimed,7897947600775,34.9,34.9,0.0
 UNIAO QUIMICA,Liris Solução de Uso Oftálmico - 10ml,7898636192182,35.99,39.99,4.0
-AROVIDA,Volig 8mg com10 Comprimidos - Legrand,7896004774947,13.99,50.87,36.88
 RANBAXY,Esomeprazol Magnésio 40mg com 28 Comprimidos - Ranbaxy Genérico,7897076914088,52.51,267.9,215.39
 LEGRAND GENERICO,Rifamicina Spray 20ml - Legrand Genérico,7894916140478,27.03,27.03,0.0
 EUROFARMA RX,Venlaxin 75mg com 60 Cápsulas - Eurofarma,7891317013585,165.67,201.13,35.46
@@ -2548,6 +2548,7 @@ PHARMASCIENCE,Azitromicina 500mg com 3 Comprimidos - Pharmascience Genérico,789
 BIOLAB RX,Dozoito 25mg com 30 Comprimidos - Biolab,7896112402664,19.33,34.7,15.37
 EMS,Rinosoro Jet XT Spray Infantil com 100ml - Hypera,7896094920033,57.16,64.95,7.79
 BIOLAB RX,Dozoito 50mg com 30 Comprimidos - Biolab,7896112402671,60.29,72.83,12.54
+BESINS,Vagifem 10mg com 18 Comprimidos - GSK,7898948648377,130.94,150.36,19.42
 BESINS,Vagifem 10mg com 18 Comprimidos - GSK,7898948648377,130.94,150.36,19.42
 SUPERA,Diupress 25 + 5mg com 30 Comprimidos - Supera,7891317010065,37.79,45.1,7.31
 GLENMARK GENERICO,Diproprianato de Beclometasona para Inalação 250mcg com 200 doses - Glenmark Genérico,7897473207103,46.69,68.68,21.99
@@ -2718,7 +2719,6 @@ CIMED,Lavitan Cdz Mais Imunidade com 16 Comprimidos Efervescentes - Cimed,789794
 CIMED,Lavitan Infantil Xarope Sabor Tutti-frutti com 240ml - Cimed,7897947614673,33.9,34.9,1.0
 ZYDUS GENERICO,Divalproato de Sódio 500mg com 20 Comprimidos - Zydus Genérico,7898927562069,31.48,54.68,23.2
 CIMED,Loratamed D Xarope com 60ml - Cimed,7896523200491,19.99,26.34,6.35
-CIMED,Lavitan Cabelos e Unhas com 30 Cápsulas - Cimed,7897947607996,24.9,29.9,5.0
 CIMED,Magnazia Suspensão de Uso Oral - 240ml,7898075311854,21.9,25.9,4.0
 CIMED,Lavitan A-Z Mulher 5g com 60 Comprimidos - Cimed,7897947616516,49.9,49.9,0.0
 CIMED,Lavitan Cálcio D3 com 60 Comprimidos - Cimed,7897947607705,34.9,34.9,0.0
@@ -3314,6 +3314,7 @@ NOVARTIS RX,Diovan Amlo Fix 160/10 com 28 Comprimidos - Novartis,7896261012523,1
 NOVARTIS RX,Diovan Amlo Fix 320/10 com 28 Comprimidos - Novartis,7896261012608,172.46,202.89,30.43
 CRISTALIA/LATINOFARMA,Dimorf10mg com 50 Comprimidos - Cristalia/Latinofarma,7896676406177,48.25,56.11,7.86
 ARESE,Dexador 5000mg com 20 Comprimidos - Arese,7899824400980,70.46,78.29,7.83
+ARESE,Dexador 5000mg com 20 Comprimidos - Arese,7899824400980,70.46,78.29,7.83
 ARESE,Dexador Injetável com 3 Ampolas - Arese,7899824400942,44.98,49.98,5.0
 GALDERMA,"Differin 0,3% Gel 30g - Galderma",7897930761476,115.28,128.09,12.81
 ALLERGAN,Dinill Solução de Uso Oftálmico - 10ml,7897316801635,16.87,17.76,0.89
@@ -3398,7 +3399,6 @@ ACHE RX,Fentizol Óvulo 600 mg com 1 Aplicador - Ache,7896658007309,81.49,90.54,
 ACHE OTC,Flogoral Menta com 150ml - Ache,7896658006760,25.45,29.59,4.14
 UNIAO QUIMICA GENOM,Femiane com 21 Drágeas - União Química Genom,7896006201588,38.28,61.31,23.03
 JANSSEN,Evra com 3 Adesivos - Janssen,7898967006141,115.6,144.41,28.81
-ACHE RX,Fentizol 2% Creme Vaginal 40g - Ache,7896658005091,41.99,46.66,4.67
 SANOFI RX,Creme Fenergan - 30g,7896070600249,23.68,24.93,1.25
 ACHE RX,Flogo-Rosa com 10 Envelopes - Ache,7896658005336,50.3,55.89,5.59
 GROSS,Etna com 20 Cápsulas - Gross,7892828001337,52.68,62.3,9.62
@@ -3739,6 +3739,7 @@ LIBBS,Naprix A 10/5mg com 30 Comprimidos - Libbs,7896094201811,60.15,77.28,17.13
 EMS,Neosaldina com 20 Drágeas - Hypera,7896094921979,29.2,33.95,4.75
 MEDQUIMICA,Nifedipress 20mg - 30 comprimidos,7896862910747,14.51,25.75,11.24
 LIBBS,Naprix A 5/5mg com 30 Comprimidos - Libbs,7896094201392,60.14,77.28,17.14
+LIBBS,Naprix A 5/5mg com 30 Comprimidos - Libbs,7896094201392,60.14,77.28,17.14
 LIBBS,Natifa 1mg com 28 Comprimidos - Libbs,7896094201460,54.98,73.32,18.34
 AROVIDA,Natus Gerin - 30 cápsulas,7896004718132,61.01,64.22,3.21
 SIGMA PHARMA RX,Neutrofer Gotas 30ml - Sigma Pharma,7894916500296,55.19,64.18,8.99
@@ -3755,8 +3756,8 @@ EMS SIMILAR,Naridrin Gotas Infantil com 15ml - Ems,7896004803463,14.61,20.85,6.2
 LIBBS,Naprix 10mg com 30 Comprimidos - Libbs,7896094206380,62.12,79.77,17.65
 SANOFI RX,Neozine Adulto Gotas 20ml - Sanofi,7896070601055,17.92,20.35,2.43
 SIGMA PHARMA RX,Neutrofer Fólico com 30 Comprimidos - Sigma Pharma,7894916500425,40.14,46.68,6.54
-SUPERA,Nasonex Spray Nasal 60 Doses - Supera,7897337716550,41.9,48.72,6.82
 SANOFI RX,Neozine 100mg com 20 Comprimidos - Sanofi,7896070601574,28.42,33.01,4.59
+SUPERA,Nasonex Spray Nasal 60 Doses - Supera,7897337716550,41.9,48.72,6.82
 SANOFI RX,Neuleptil com 20 Comprimidos - Sanofi,7896070601543,12.48,14.21,1.73
 GSK RX,"Naramig 2,5mg com 4 Comprimidos - GSK",7896269900983,23.29,27.4,4.11
 CRISTALIA/LATINOFARMA,Nausedron 8mg com 10 Comprimidos - Cristalia/Latinofarma,7896676404241,73.47,85.43,11.96
@@ -3823,7 +3824,6 @@ ACHE RX,Novocilin 400mg 100ml - Ache,7896658004124,45.1,47.47,2.37
 FARMAX,Óleo Capilar e Corporal Farmax Semente de Uva - 100ml,7896902211261,10.99,10.99,0.0
 TORRENT,Oleptal 300mg com 30 Comprimidos - Torrent,8902220106185,61.36,79.53,18.17
 EMS SIMILAR,Otomixyn Gotas 5ml - EMS,7896004707600,12.62,15.24,2.62
-SIGMA PHARMA RX,Osteoform 70mg com 4 Comprimidos - Sigma Pharma,7894916501729,63.97,77.36,13.39
 ASTELLAS,"Omnic Ocas 0,4mg com 30 Comprimidos - Astellas",7899337000400,117.09,140.3,23.21
 PFIZER,Olmetec 40mg com 30 Comprimidos - Pfizer,7891268148756,180.77,212.67,31.9
 ACHE RX,Omepramix 7BL com 56 Comprimidos + 28 Cápsulas - Ache,7896658004360,212.57,250.08,37.51
@@ -4079,6 +4079,7 @@ BALDACCI,Sinvascor 10mg com 30 Comprimidos - Baldacci,7897851250394,16.33,20.03,
 JANSSEN,Sporanox Pulso 100mg com 28 Cápsulas - Janssen,7896212427185,410.82,499.88,89.06
 BIOSINTETICA,Somalium 6mg com 30 Comprimidos - Ache,7896658008467,46.35,55.46,9.11
 SIGMA PHARMA RX,Sinvalip 20mg 30 Comprimidos - Sigma Pharma,7894916206860,47.31,56.85,9.54
+SIGMA PHARMA RX,Sinvalip 20mg 30 Comprimidos - Sigma Pharma,7894916206860,47.31,56.85,9.54
 BOEHRINGER,"Sifrol 0,25mg com 30 Comprimidos - Boehringer",7896026301381,125.09,147.87,22.78
 GSK RX,Seretide Spray 25/50mcg com 120 Doses - GSK,7896269955136,134.94,158.75,23.81
 ACHE OTC,Sintocalmy 300mg com 20 Comprimidos - Ache,7896658012341,42.82,49.79,6.97
@@ -4248,4 +4249,3 @@ MARJAN,Vicog com 30 Comprimidos - Marjan,7896226102542,27.19,34.4,7.21
 NIKKHO - ZYDUS,Valeriane 50mg com 20 Drágeas - GSK,7897460400517,80.39,93.48,13.09
 PROCTER  GAMBL,Vick Vaporub com 30g - Procter Gambl,7590002032817,36.26,41.21,4.95
 BIOLAB RX,Vonau Flash 8mg com 10 Comprimidos - Biolab,7896241296400,80.64,93.77,13.13
-LEOPHARMA,Verutex B Creme 15g - Leopharma,5702191007961,100.39,105.67,5.28
